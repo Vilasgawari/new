@@ -1,0 +1,2 @@
+hii i am learning clone command
+and also git add and git commit
